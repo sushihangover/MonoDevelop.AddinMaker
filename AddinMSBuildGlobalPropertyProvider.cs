@@ -27,8 +27,8 @@
 using System;
 using System.Collections.Generic;
 using MonoDevelop.Core;
-using MonoDevelop.Projects.Formats.MSBuild;
 using Mono.Addins;
+using MonoDevelop.Projects.MSBuild;
 
 namespace MonoDevelop.AddinMaker
 {
